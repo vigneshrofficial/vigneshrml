@@ -1,8 +1,8 @@
-### Hi there, I'm Vignesh from [Stumonk][https://www.stumonk.herokuapp.com] 👋
+### Hi there, I'm Vignesh from [Stumonk][http://stumonk.herokuapp.com/] 👋
 
 ## I'm a Student, Developer, and Freelancer!!
 
-- 🔭 I just launched my website called [Stumonk][https://www.stumonk.herokuapp.com]
+- 🔭 I just launched my website called [Stumonk][http://stumonk.herokuapp.com/]
 - 🌱 I’m currently learning Java Programming.
 - 👯 I’m making videos on youtube about programming.
 - ⚡ Fun fact: I love to draw and play guitar / drums
@@ -41,12 +41,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Vigneshrml's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vigneshrml&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
