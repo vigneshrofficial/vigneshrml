@@ -26,8 +26,9 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="Bootstrap" width="26px" src="https://i.dlpng.com/static/png/432835_preview.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png" />][website]
+[<img align="left" alt="MongoDB" width="26px" src="https://www.klipfolio.com/sites/default/files/integrations/mongo.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
