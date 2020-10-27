@@ -1,6 +1,7 @@
 ### Hey there, I'm Vignesh from [Stumonk][website] 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/vigneshrml?color=%231E99E6&label=Follow%20%40vigneshrml&style=flat-square)
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vigneshrml?color=%231E99E6&label=Follow%20%40vigneshrml&logo=twitter&style=for-the-badge">][twitter]
+[<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%23E37001&label=join%20our%20community&style=for-the-badge&url=http%3A%2F%2Fstumonk.herokuapp.com%2F">][website]
 
 ## I'm a Student, Developer, and Freelancer!!
 
@@ -11,7 +12,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -28,7 +28,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 <br />
