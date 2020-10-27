@@ -1,6 +1,6 @@
 ### Hey there, I'm Vignesh from [Stumonk][website] 👋
 
-<br />
+![Twitter Follow](https://img.shields.io/twitter/follow/vigneshrml?color=%231E99E6&label=Follow%20%40vigneshrml&style=flat-square)
 
 ## I'm a Student, Developer, and Freelancer!!
 
@@ -27,7 +27,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
@@ -38,7 +38,7 @@
 
   <img align="left" alt="Vigneshrml's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vigneshrml&show_icons=true&hide_border=true" />
 
-
+[college]: https://kce.ac.in/
 [website]: http://stumonk.herokuapp.com
 [twitter]: https://twitter.com/vigneshrml
 [youtube]: https://www.youtube.com/channel/UCVSx2flhroiFj2SaLHTDHug
