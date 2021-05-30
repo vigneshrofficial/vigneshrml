@@ -1,4 +1,4 @@
-### Hey there, I'm Vignesh from [Stumonk][website] 👋
+### Hey there, I'm Vignesh 👋
 
 [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vigneshrml?color=%231E99E6&label=Follow%20%40vigneshrml&logo=twitter&style=for-the-badge">][twitter]
 [<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%23E37001&label=join%20our%20community&style=for-the-badge&url=http%3A%2F%2Fstumonk.herokuapp.com%2F">][website]
