@@ -64,5 +64,5 @@
 [website]: http://www.stumonk.com/
 [twitter]: https://twitter.com/vigneshrml
 [youtube]: https://www.youtube.com/channel/UCVSx2flhroiFj2SaLHTDHug
-[instagram]: https://www.instagram.com/vigneshbharathiyt/
+[instagram]: https://www.instagram.com/vigneshrml
 [linkedin]: https://www.linkedin.com/in/vigneshceo/
