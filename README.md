@@ -10,6 +10,7 @@
 - 👯 I’m making videos on youtube about programming.
 - ⚡ I'm student at [KCE][college]
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshrml&show_icons=true&locale=en&layout=compact&hide=html,css&langs_count=8&theme=react&width=80&count_private=true" alt="vignesh" />
 
 
 ### Languages:
